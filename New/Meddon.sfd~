@@ -20,7 +20,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1296005256
-ModificationTime: 1328083379
+ModificationTime: 1328083302
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,17 +53,9 @@ OS2StrikeYPos: 512
 OS2Vendor: 'NEWT'
 OS2CodePages: 20000093.00000000
 OS2UnicodeRanges: a00000af.5000204a.00000000.00000000
-Lookup: 6 0 0 "contextual chains"  {"n.fina"  } ['dlig' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "final forms"  {"final forms-1" ("fina" ) } []
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: coverage "n.fina"  0 0 0 1
- 1 0 1
-  Coverage: 1 n
-  FCoverage: 5 space
- 1
-  SeqLookup: 0 "final forms" 
-EndFPST
 TtTable: prep
 PUSHW_1
  99
